@@ -1,0 +1,134 @@
+,name,brand,body_type,fuel_type,transmission,seating_capacity,engine_cc,mileage_or_range,ex_showroom_price_rs,on_road_price_rs,mileage_range_bucket,tags
+0,Maruti Alto K10,Maruti Suzuki,Hatchback,Petrol,Manual,5,998,24.9,423000,476000,20-25,maruti alto k10 maruti suzuki hatchback petrol manual
+1,Maruti S-Presso,Maruti Suzuki,Hatchback,Petrol,Manual,5,998,24.1,426000,479000,20-25,maruti s-presso maruti suzuki hatchback petrol manual
+2,Maruti Eeco,Maruti Suzuki,Van,Petrol,Manual,7,1197,16.1,520000,601000,15-20,maruti eeco maruti suzuki van petrol manual
+3,Maruti Celerio,Maruti Suzuki,Hatchback,Petrol,AMT,5,998,26.7,565000,653000,25-30,maruti celerio maruti suzuki hatchback petrol amt
+4,Maruti Wagon R,Maruti Suzuki,Hatchback,Petrol,AMT,5,998,24.4,585000,676000,20-25,maruti wagon r maruti suzuki hatchback petrol amt
+5,Maruti Ignis,Maruti Suzuki,Hatchback,Petrol,AMT,5,1197,22.9,585000,676000,20-25,maruti igni maruti suzuki hatchback petrol amt
+6,Maruti Swift,Maruti Suzuki,Hatchback,Petrol,AMT,5,1197,22.6,649000,750000,20-25,maruti swift maruti suzuki hatchback petrol amt
+7,Maruti Dzire,Maruti Suzuki,Sedan,Petrol,AMT,5,1197,24.4,679000,784000,20-25,maruti dzire maruti suzuki sedan petrol amt
+8,Maruti Baleno,Maruti Suzuki,Hatchback,Petrol,AMT,5,1197,22.35,610000,705000,20-25,maruti baleno maruti suzuki hatchback petrol amt
+9,Maruti Fronx,Maruti Suzuki,Compact SUV,Petrol,AMT,5,1197,21.5,685000,791000,20-25,maruti fronx maruti suzuki compact suv petrol amt
+10,Maruti Brezza,Maruti Suzuki,Compact SUV,Petrol,AT,5,1462,19.8,834000,963000,15-20,maruti brezza maruti suzuki compact suv petrol at
+11,Maruti Ertiga,Maruti Suzuki,MUV,Petrol,AT,7,1462,20.4,865000,999000,20-25,maruti ertiga maruti suzuki muv petrol at
+12,Maruti XL6,Maruti Suzuki,MUV,Petrol,AT,6,1462,20.9,1185000,1392000,20-25,maruti xl6 maruti suzuki muv petrol at
+13,Maruti Grand Vitara,Maruti Suzuki,Midsize SUV,Hybrid,AT,5,1462,27.97,1077000,1265000,25-30,maruti grand vitara maruti suzuki midsiz suv hybrid at
+14,Maruti Jimny,Maruti Suzuki,Off-roader SUV,Petrol,AT,5,1462,16.4,1274000,1497000,15-20,maruti jimni maruti suzuki off-road suv petrol at
+15,Maruti Invicto,Maruti Suzuki,MUV,Hybrid,e-CVT,7,1987,23.24,2479000,2987000,20-25,maruti invicto maruti suzuki muv hybrid e-cvt
+16,Hyundai Grand i10 Nios,Hyundai,Hatchback,Petrol,Manual,5,1197,20.3,605000,699000,20-25,hyundai grand i10 nio hyundai hatchback petrol manual
+17,Hyundai Aura,Hyundai,Sedan,Petrol,AMT,5,1197,20.0,630000,728000,15-20,hyundai aura hyundai sedan petrol amt
+18,Hyundai Exter,Hyundai,Micro SUV,Petrol,AMT,5,1197,19.4,613000,708000,15-20,hyundai exter hyundai micro suv petrol amt
+19,Hyundai i20,Hyundai,Hatchback,Petrol,CVT,5,1197,20.3,710000,820000,20-25,hyundai i20 hyundai hatchback petrol cvt
+20,Hyundai Venue,Hyundai,Compact SUV,Diesel,DCT,5,1197,18.2,726000,839000,15-20,hyundai venu hyundai compact suv diesel dct
+21,Hyundai Verna,Hyundai,Sedan,Petrol,AT,5,1497,20.6,1115000,1310000,20-25,hyundai verna hyundai sedan petrol at
+22,Hyundai Creta,Hyundai,Midsize SUV,Diesel,AT,5,1497,17.7,1091000,1282000,15-20,hyundai creta hyundai midsiz suv diesel at
+23,Hyundai Alcazar,Hyundai,Midsize SUV,Diesel,AT,7,1497,16.1,1450000,1704000,15-20,hyundai alcazar hyundai midsiz suv diesel at
+24,Hyundai Tucson,Hyundai,Premium SUV,Diesel,AT,5,1995,16.2,2900000,3495000,15-20,hyundai tucson hyundai premium suv diesel at
+25,Hyundai Ioniq 5,Hyundai,Premium SUV,Electric,Automatic,5,0,631.0,4600000,4853000,600-800,hyundai ioniq 5 hyundai premium suv electr automat
+26,Hyundai Creta Electric,Hyundai,Midsize SUV,Electric,Automatic,5,0,473.0,1800000,1899000,400-500,hyundai creta electr hyundai midsiz suv electr automat
+27,Tata Tiago,Tata,Hatchback,Petrol,Manual,5,1199,20.0,565000,653000,15-20,tata tiago tata hatchback petrol manual
+28,Tata Tigor,Tata,Sedan,Petrol,AMT,5,1199,20.0,665000,768000,15-20,tata tigor tata sedan petrol amt
+29,Tata Altroz,Tata,Hatchback,Diesel,Manual,5,1199,19.0,660000,762000,15-20,tata altroz tata hatchback diesel manual
+30,Tata Punch,Tata,Micro SUV,Petrol,AMT,5,1199,20.1,575000,664000,20-25,tata punch tata micro suv petrol amt
+31,Tata Nexon,Tata,Compact SUV,Diesel,AMT,5,1199,17.4,800000,924000,15-20,tata nexon tata compact suv diesel amt
+32,Tata Curvv,Tata,Compact SUV,Diesel,AT,5,1497,16.8,1000000,1155000,15-20,tata curvv tata compact suv diesel at
+33,Tata Harrier,Tata,Midsize SUV,Diesel,AT,5,1956,14.6,1550000,1821000,10-15,tata harrier tata midsiz suv diesel at
+34,Tata Safari,Tata,Midsize SUV,Diesel,AT,7,1956,14.1,1590000,1868000,10-15,tata safari tata midsiz suv diesel at
+35,Tata Tiago EV,Tata,Hatchback,Electric,Automatic,5,0,315.0,800000,844000,300-400,tata tiago ev tata hatchback electr automat
+36,Tata Tigor EV,Tata,Sedan,Electric,Automatic,5,0,315.0,1249000,1318000,300-400,tata tigor ev tata sedan electr automat
+37,Tata Punch EV,Tata,Micro SUV,Electric,Automatic,5,0,315.0,1099000,1159000,300-400,tata punch ev tata micro suv electr automat
+38,Tata Nexon EV,Tata,Compact SUV,Electric,Automatic,5,0,465.0,1250000,1319000,400-500,tata nexon ev tata compact suv electr automat
+39,Tata Curvv EV,Tata,Compact SUV,Electric,Automatic,5,0,502.0,1749000,1845000,500-600,tata curvv ev tata compact suv electr automat
+40,Mahindra Bolero,Mahindra,SUV,Diesel,Manual,7,1493,15.7,999000,1154000,15-20,mahindra bolero mahindra suv diesel manual
+41,Mahindra Bolero Neo,Mahindra,Compact SUV,Diesel,Manual,7,1497,17.3,970000,1120000,15-20,mahindra bolero neo mahindra compact suv diesel manual
+42,Mahindra Scorpio Classic,Mahindra,SUV,Diesel,Manual,9,2179,15.4,1260000,1481000,15-20,mahindra scorpio classic mahindra suv diesel manual
+43,Mahindra Scorpio N,Mahindra,Midsize SUV,Diesel,AT,7,2184,14.2,1369000,1609000,10-15,mahindra scorpio n mahindra midsiz suv diesel at
+44,Mahindra Thar,Mahindra,Off-roader SUV,Diesel,Manual,4,2184,15.2,1050000,1234000,15-20,mahindra thar mahindra off-road suv diesel manual
+45,Mahindra Thar Roxx,Mahindra,Off-roader SUV,Diesel,AT,5,2184,15.0,1299000,1526000,10-15,mahindra thar roxx mahindra off-road suv diesel at
+46,Mahindra XUV 3XO,Mahindra,Compact SUV,Diesel,AT,5,1497,18.0,830000,959000,15-20,mahindra xuv 3xo mahindra compact suv diesel at
+47,Mahindra XUV400 EV,Mahindra,Compact SUV,Electric,Automatic,5,0,456.0,1550000,1635000,400-500,mahindra xuv400 ev mahindra compact suv electr automat
+48,Mahindra XUV700,Mahindra,Midsize SUV,Diesel,AT,7,1997,13.5,1449000,1703000,10-15,mahindra xuv700 mahindra midsiz suv diesel at
+49,Mahindra BE 6,Mahindra,Midsize SUV,Electric,Automatic,5,0,683.0,1890000,1994000,600-800,mahindra be 6 mahindra midsiz suv electr automat
+50,Mahindra XEV 9e,Mahindra,Midsize SUV,Electric,Automatic,5,0,656.0,2190000,2310000,600-800,mahindra xev 9e mahindra midsiz suv electr automat
+51,Kia Sonet,Kia,Compact SUV,Diesel,DCT,5,1197,18.4,815000,941000,15-20,kia sonet kia compact suv diesel dct
+52,Kia Seltos,Kia,Midsize SUV,Diesel,AT,5,1497,18.8,1100000,1293000,15-20,kia selto kia midsiz suv diesel at
+53,Kia Carens,Kia,MUV,Diesel,AT,7,1497,16.5,1045000,1228000,15-20,kia caren kia muv diesel at
+54,Kia Carens Clavis,Kia,MUV,Diesel,AT,6,1497,16.5,1100000,1293000,15-20,kia caren clavi kia muv diesel at
+55,Kia Sorento,Kia,Premium SUV,Diesel,AT,7,2151,13.5,2799000,3373000,10-15,kia sorento kia premium suv diesel at
+56,Kia EV6,Kia,Premium SUV,Electric,Automatic,5,0,663.0,6500000,6858000,600-800,kia ev6 kia premium suv electr automat
+57,Toyota Glanza,Toyota,Hatchback,Petrol,AMT,5,1197,22.3,660000,762000,20-25,toyota glanza toyota hatchback petrol amt
+58,Toyota Taisor,Toyota,Compact SUV,Petrol,AMT,5,1197,21.5,786000,908000,20-25,toyota taisor toyota compact suv petrol amt
+59,Toyota Rumion,Toyota,MUV,Petrol,AT,7,1462,17.4,893000,1031000,15-20,toyota rumion toyota muv petrol at
+60,Toyota Urban Cruiser Hyryder,Toyota,Compact SUV,Hybrid,AT,5,1490,27.97,1128000,1325000,25-30,toyota urban cruiser hyryd toyota compact suv hybrid at
+61,Toyota Innova Crysta,Toyota,MUV,Diesel,AT,7,2393,12.7,2130000,2567000,10-15,toyota innova crysta toyota muv diesel at
+62,Toyota Innova Hycross,Toyota,MUV,Hybrid,e-CVT,7,1987,23.24,1980000,2327000,20-25,toyota innova hycross toyota muv hybrid e-cvt
+63,Toyota Fortuner,Toyota,Premium SUV,Diesel,AT,7,2755,10.0,3400000,4097000,0-10,toyota fortun toyota premium suv diesel at
+64,Toyota Fortuner Legender,Toyota,Premium SUV,Diesel,AT,7,2755,10.0,4100000,4941000,0-10,toyota fortun legend toyota premium suv diesel at
+65,Toyota Land Cruiser 300,Toyota,Premium SUV,Diesel,AT,7,3346,8.0,21000000,25305000,0-10,toyota land cruiser 300 toyota premium suv diesel at
+66,Toyota Camry,Toyota,Sedan,Hybrid,e-CVT,5,2487,22.37,4800000,5784000,20-25,toyota camri toyota sedan hybrid e-cvt
+67,Toyota Vellfire,Toyota,MUV,Hybrid,e-CVT,7,2487,16.0,12000000,14460000,15-20,toyota vellfir toyota muv hybrid e-cvt
+68,Honda Amaze,Honda,Sedan,Petrol,CVT,5,1199,19.0,800000,924000,15-20,honda amaz honda sedan petrol cvt
+69,Honda City,Honda,Sedan,Hybrid,CVT,5,1498,27.13,1150000,1351000,25-30,honda citi honda sedan hybrid cvt
+70,Honda Elevate,Honda,Compact SUV,Petrol,CVT,5,1498,16.9,1102000,1295000,15-20,honda elev honda compact suv petrol cvt
+71,Renault Kwid,Renault,Hatchback,Petrol,Manual,5,999,22.0,470000,529000,20-25,renault kwid renault hatchback petrol manual
+72,Renault Triber,Renault,MUV,Petrol,AMT,7,999,19.0,640000,739000,15-20,renault triber renault muv petrol amt
+73,Renault Kiger,Renault,Compact SUV,Petrol,AMT,5,999,19.5,605000,699000,15-20,renault kiger renault compact suv petrol amt
+74,Nissan Magnite,Nissan,Compact SUV,Petrol,Manual,5,999,19.0,600000,693000,15-20,nissan magnit nissan compact suv petrol manual
+75,MG Comet EV,MG,Hatchback,Electric,Automatic,4,0,230.0,700000,738000,200-300,mg comet ev mg hatchback electr automat
+76,MG Astor,MG,Midsize SUV,Petrol,CVT,5,1498,16.5,1050000,1234000,15-20,mg astor mg midsiz suv petrol cvt
+77,MG Windsor EV,MG,MUV,Electric,Automatic,5,0,332.0,1350000,1424000,300-400,mg windsor ev mg muv electr automat
+78,MG Hector,MG,Midsize SUV,Diesel,CVT,5,1451,14.5,1400000,1645000,10-15,mg hector mg midsiz suv diesel cvt
+79,MG Hector Plus,MG,Midsize SUV,Diesel,CVT,7,1451,14.1,1550000,1821000,10-15,mg hector plu mg midsiz suv diesel cvt
+80,MG ZS EV,MG,Midsize SUV,Electric,Automatic,5,0,461.0,1898000,2002000,400-500,mg zs ev mg midsiz suv electr automat
+81,MG Gloster,MG,Premium SUV,Diesel,AT,7,1996,13.6,3800000,4579000,10-15,mg gloster mg premium suv diesel at
+82,Citroen C3,Citroen,Hatchback,Petrol,Manual,5,1199,19.5,613000,708000,15-20,citroen c3 citroen hatchback petrol manual
+83,Citroen eC3,Citroen,Hatchback,Electric,Automatic,5,0,320.0,1160000,1224000,300-400,citroen ec3 citroen hatchback electr automat
+84,Citroen C3 Aircross,Citroen,Compact SUV,Petrol,Manual,5,1199,19.3,999000,1154000,15-20,citroen c3 aircross citroen compact suv petrol manual
+85,Citroen Basalt,Citroen,Compact SUV,Petrol,Manual,5,1199,19.5,1060000,1246000,15-20,citroen basalt citroen compact suv petrol manual
+86,Skoda Kylaq,Skoda,Compact SUV,Petrol,AT,5,999,19.8,789000,911000,15-20,skoda kylaq skoda compact suv petrol at
+87,Skoda Kushaq,Skoda,Compact SUV,Petrol,AT,5,999,18.6,1169000,1374000,15-20,skoda kushaq skoda compact suv petrol at
+88,Skoda Slavia,Skoda,Sedan,Petrol,AT,5,999,19.1,1199000,1409000,15-20,skoda slavia skoda sedan petrol at
+89,Skoda Superb,Skoda,Sedan,Petrol,AT,5,1984,13.9,5000000,6025000,10-15,skoda superb skoda sedan petrol at
+90,Volkswagen Virtus,Volkswagen,Sedan,Petrol,AT,5,999,19.4,1199000,1409000,15-20,volkswagen virtu volkswagen sedan petrol at
+91,Volkswagen Taigun,Volkswagen,Compact SUV,Petrol,AT,5,999,18.6,1170000,1375000,15-20,volkswagen taigun volkswagen compact suv petrol at
+92,Volkswagen Tiguan,Volkswagen,Premium SUV,Petrol,AT,5,1984,13.5,3500000,4218000,10-15,volkswagen tiguan volkswagen premium suv petrol at
+93,Jeep Compass,Jeep,Midsize SUV,Diesel,AT,5,1956,16.9,2060000,2482000,15-20,jeep compass jeep midsiz suv diesel at
+94,Jeep Meridian,Jeep,Midsize SUV,Diesel,AT,7,1956,15.6,3000000,3615000,15-20,jeep meridian jeep midsiz suv diesel at
+95,Volvo EX30,Volvo,Compact SUV,Electric,Automatic,5,0,449.0,4400000,4642000,400-500,volvo ex30 volvo compact suv electr automat
+96,Volvo EX40,Volvo,Premium SUV,Electric,Automatic,5,0,476.0,5600000,5908000,400-500,volvo ex40 volvo premium suv electr automat
+97,Volvo XC40,Volvo,Premium SUV,Petrol,AT,5,1969,14.6,4600000,5543000,10-15,volvo xc40 volvo premium suv petrol at
+98,Volvo XC60,Volvo,Premium SUV,Petrol,AT,5,1969,13.9,6800000,8194000,10-15,volvo xc60 volvo premium suv petrol at
+99,Volvo XC90,Volvo,Premium SUV,Diesel,AT,7,1969,12.7,9500000,11448000,10-15,volvo xc90 volvo premium suv diesel at
+100,BMW X1,BMW,Premium SUV,Petrol,AT,5,1998,15.0,4990000,6013000,10-15,bmw x1 bmw premium suv petrol at
+101,BMW 3 Series,BMW,Sedan,Petrol,AT,5,1998,15.9,5200000,6266000,15-20,bmw 3 seri bmw sedan petrol at
+102,BMW 5 Series,BMW,Sedan,Petrol,AT,5,1998,14.4,7800000,9399000,10-15,bmw 5 seri bmw sedan petrol at
+103,BMW X3,BMW,Premium SUV,Petrol,AT,5,1998,14.8,6800000,8194000,10-15,bmw x3 bmw premium suv petrol at
+104,BMW X5,BMW,Premium SUV,Diesel,AT,5,2993,13.3,9300000,11206000,10-15,bmw x5 bmw premium suv diesel at
+105,BMW i4,BMW,Sedan,Electric,Automatic,5,0,590.0,7400000,7807000,500-600,bmw i4 bmw sedan electr automat
+106,BMW 7 Series,BMW,Sedan,Petrol,AT,5,2998,12.3,18000000,21690000,10-15,bmw 7 seri bmw sedan petrol at
+107,Mercedes-Benz A-Class Limousine,Mercedes-Benz,Sedan,Petrol,AT,5,1332,16.9,5000000,6025000,15-20,mercedes-benz a-class limousin mercedes-benz sedan petrol at
+108,Mercedes-Benz GLA,Mercedes-Benz,Compact SUV,Petrol,AT,5,1332,15.6,5200000,6266000,15-20,mercedes-benz gla mercedes-benz compact suv petrol at
+109,Mercedes-Benz C-Class,Mercedes-Benz,Sedan,Petrol,AT,5,1496,15.9,6200000,7471000,15-20,mercedes-benz c-class mercedes-benz sedan petrol at
+110,Mercedes-Benz GLC,Mercedes-Benz,Premium SUV,Petrol,AT,5,1999,13.8,7400000,8917000,10-15,mercedes-benz glc mercedes-benz premium suv petrol at
+111,Mercedes-Benz E-Class,Mercedes-Benz,Sedan,Petrol,AT,5,1999,13.5,7800000,9399000,10-15,mercedes-benz e-class mercedes-benz sedan petrol at
+112,Mercedes-Benz GLE,Mercedes-Benz,Premium SUV,Diesel,AT,5,2925,12.5,9500000,11448000,10-15,mercedes-benz gle mercedes-benz premium suv diesel at
+113,Mercedes-Benz GLS,Mercedes-Benz,Premium SUV,Diesel,AT,7,2925,11.5,13000000,15665000,10-15,mercedes-benz gl mercedes-benz premium suv diesel at
+114,Mercedes-Benz EQB,Mercedes-Benz,Compact SUV,Electric,Automatic,5,0,423.0,7200000,7596000,400-500,mercedes-benz eqb mercedes-benz compact suv electr automat
+115,Audi A4,Audi,Sedan,Petrol,AT,5,1984,14.5,4600000,5543000,10-15,audi a4 audi sedan petrol at
+116,Audi Q3,Audi,Premium SUV,Petrol,AT,5,1984,12.0,4800000,5784000,10-15,audi q3 audi premium suv petrol at
+117,Audi A6,Audi,Sedan,Petrol,AT,5,1984,13.6,6800000,8194000,10-15,audi a6 audi sedan petrol at
+118,Audi Q5,Audi,Premium SUV,Petrol,AT,5,1984,13.0,6800000,8194000,10-15,audi q5 audi premium suv petrol at
+119,Audi Q7,Audi,Premium SUV,Petrol,AT,7,2995,11.5,900000000,1084500000,10-15,audi q7 audi premium suv petrol at
+120,Lexus ES,Lexus,Sedan,Hybrid,e-CVT,5,2487,22.2,6500000,7833000,20-25,lexu es lexu sedan hybrid e-cvt
+121,Lexus NX,Lexus,Premium SUV,Hybrid,e-CVT,5,2487,20.9,6800000,8194000,20-25,lexu nx lexu premium suv hybrid e-cvt
+122,Lexus RX,Lexus,Premium SUV,Hybrid,e-CVT,5,2487,19.5,10000000,12050000,15-20,lexu rx lexu premium suv hybrid e-cvt
+123,Land Rover Discovery Sport,Land Rover,Premium SUV,Diesel,AT,5,1997,14.5,7200000,8676000,10-15,land rover discoveri sport land rover premium suv diesel at
+124,Range Rover Evoque,Land Rover,Premium SUV,Diesel,AT,5,1997,14.0,6800000,8194000,10-15,rang rover evoqu land rover premium suv diesel at
+125,Range Rover Velar,Land Rover,Premium SUV,Diesel,AT,5,1997,13.5,9200000,11086000,10-15,rang rover velar land rover premium suv diesel at
+126,Range Rover,Land Rover,Premium SUV,Diesel,AT,5,2996,11.5,25000000,30125000,10-15,rang rover land rover premium suv diesel at
+127,Jaguar F-Pace,Jaguar,Premium SUV,Diesel,AT,5,1997,14.0,7200000,8676000,10-15,jaguar f-pace jaguar premium suv diesel at
+128,Porsche Macan,Porsche,Premium SUV,Petrol,AT,5,1984,11.0,8700000,10483000,10-15,porsch macan porsch premium suv petrol at
+129,Porsche Cayenne,Porsche,Premium SUV,Petrol,AT,5,2995,9.5,13000000,15665000,0-10,porsch cayenn porsch premium suv petrol at
+130,BYD Atto 3,BYD,Compact SUV,Electric,Automatic,5,0,521.0,2400000,2532000,500-600,byd atto 3 byd compact suv electr automat
+131,BYD Seal,BYD,Sedan,Electric,Automatic,5,0,650.0,4100000,4326000,600-800,byd seal byd sedan electr automat
+132,BYD eMax7,BYD,MUV,Electric,Automatic,7,0,530.0,2690000,2838000,500-600,byd emax7 byd muv electr automat
